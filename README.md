@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<div sstyle="display: flex;>
+  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-#005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
+</div>
