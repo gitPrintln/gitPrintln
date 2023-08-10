@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div sstyle="display: flex;>
+<div style="display: flex;>
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=plastic&logo=Springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=Thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white"/>
