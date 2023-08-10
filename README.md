@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <div>tool</div>
+  <div>🔧tool</div>
   <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
